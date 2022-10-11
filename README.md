@@ -5,4 +5,4 @@
 * [✅] [**Da Hood Aim Trainer**](https://www.roblox.com/games/9824221333/UPDATE-Da-Hood-Aim-Trainer) (UpdateMousePos)
 
 ### Supported Executors
-* [✅] [Synapse X](https://x.synapse.to/)
+* [✅] [Synapse X](https://x.synapse.to/) ($20 USD)
