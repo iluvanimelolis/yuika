@@ -1,5 +1,7 @@
 ### Script Loadstring
-``loadstring(game:HttpGet("https://raw.githubusercontent.com/ketaminee/yuika/main/source.lua"))()``
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ketaminee/yuika/main/source.lua"))()
+```
 
 ### Supported Games
 * [✔] [**Da Hood**](https://www.roblox.com/games/2788229376/Da-Hood) (UpdateMousePos)
