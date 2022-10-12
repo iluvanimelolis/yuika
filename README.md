@@ -8,7 +8,16 @@
 * [❌] [Krnl](https://krnl.place/) (Not Tested)
 * [✔] [Synapse X](https://x.synapse.to/) ($20 USD)
 
-## Script Loadstring
+### Script Loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ketaminee/yuika/main/source.lua"))()
+
+getgenv().Settings = {
+    Key = "Q"; -- Target Key
+    AAKey = "Z"; -- Anti Aim Key
+    Target = nil; -- Current Target
+    AAEnabled = false; -- Anti Aim Enabled
+    Prediction = 0.135; -- Aimlock Prediction
+    Part = "HumanoidRootPart"; -- Hit Part
+}
 ```
