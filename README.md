@@ -5,7 +5,7 @@
 * [✔] [**Da Hood Aim Trainer**](https://www.roblox.com/games/9824221333/UPDATE-Da-Hood-Aim-Trainer) (UpdateMousePos)
 
 ### Supported Executors
-* [❌] [Krnl](https://krnl.place/) (Not Tested)
+* [✔] [Krnl](https://krnl.place/) (Free)
 * [✔] [Synapse X](https://x.synapse.to/) ($20 USD)
 
 ### Script Loadstring
