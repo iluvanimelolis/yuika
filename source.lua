@@ -10,6 +10,7 @@
                     [✅] Da Hood Aim Trainer (https://www.roblox.com/games/9824221333/UPDATE-Da-Hood-Aim-Trainer)
     Update Logs: 
                 [10/10/22] - [/] Source On GitHub (ketaminee)
+                [11/05/22] - [-] ts not maintained anymore 
 ]]--
 
 
